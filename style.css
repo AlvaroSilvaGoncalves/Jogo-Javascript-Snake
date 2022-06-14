@@ -1,0 +1,23 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+    background-color: #3b967b;
+    height: 100%;
+}
+
+canvas {
+    background-color: #3b967b;
+    border-radius: 15px;
+
+    margin: auto;
+    position: absolute;
+
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
